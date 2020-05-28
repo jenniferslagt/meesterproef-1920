@@ -9,6 +9,8 @@ Ook hebben we natuurlijk een planning gemaakt door een project aan te maken op G
 ### Week 2
 Vanaf deze week zijn we echt begonnen met het bouwen van de app. Voordat we begonnen met bouwen, heeft Marjolein ons uitgelegd hoe we het beste kunnen samenwerken binnen een repository op verschillende branches. Hierbij heeft ze ook uitgelegd hoe je te werk gaat op je terminal met Git! Erg leerzaam, maar ik heb er wel wat moeite mee aangezien het allemaal nieuwe dingen zijn. Daarom had ik nog even een tutorial gekeken waardoor ik het wat beter begreep.
 
+Het is fijn om weer even aan de slag te gaan met alle stof die we geleerd hebben tijdens de minor. Ik merk dat er wat dingen waren weggezakt die nu weer naar boven komen. 
+
 Ook hebben we regels gemaakt over onze manier van coderen.. Denk aan het gebruiken van enkele of dubbele aanhalingtekens. Op advies tijdens de code reviews hebben we hiervoor ESLint gebruikt. Ik had hier nog nooit van gehoord! Maar op deze manier hanteren we "onze code syntax" als je gaat coderen. 
 
 Kortom: een leerzame week!
