@@ -11,6 +11,8 @@ Vanaf deze week zijn we echt begonnen met het bouwen van de app. Voordat we bego
 
 Het is fijn om weer even aan de slag te gaan met alle stof die we geleerd hebben tijdens de minor. Ik merk dat er wat dingen waren weggezakt die nu weer naar boven komen. 
 
+Ook zijn we bezig geweest met SASS voor CSS. Ik had hier al een Crash Course over geschreven voor de weekly geek, maar was ER in praktijk nog niet aan toegekomen. Fijn om te zien dat dit even makkelijk werkt in theorie als in praktijk!
+
 Ook hebben we regels gemaakt over onze manier van coderen.. Denk aan het gebruiken van enkele of dubbele aanhalingtekens. Op advies tijdens de code reviews hebben we hiervoor ESLint gebruikt. Ik had hier nog nooit van gehoord! Maar op deze manier hanteren we "onze code syntax" als je gaat coderen. 
 
 Kortom: een leerzame week!
@@ -19,7 +21,12 @@ Kortom: een leerzame week!
 
 
 
+
+## Reflectie Glory Days
+
+
 ## Wishlist
+- [x] Met SASS werken 
 - [ ] Functional programming
 - [ ] Aan de slag met een database
 - [x] Samenwerken in GitHub
