@@ -15,6 +15,8 @@ Ook zijn we bezig geweest met SASS voor CSS. Ik had hier al een Crash Course ove
 
 Ook hebben we regels gemaakt over onze manier van coderen.. Denk aan het gebruiken van enkele of dubbele aanhalingtekens. Op advies tijdens de code reviews hebben we hiervoor ESLint gebruikt. Ik had hier nog nooit van gehoord! Maar op deze manier hanteren we "onze code syntax" als je gaat coderen. 
 
+Tenslotte ben ik vrijdag aan de slag gegaan met een recorder. Ik heb eerst research gedaan en kwam erachter dat er een API is om media te streamen. Vervolgens heb ik een tutorial gevolgd waarbij je de user kan opnemen. Hierbij wordt de video én de audio gestreamd, opgenomen en opgeslagen. 
+
 Kortom: een leerzame week!
 
 ### Week 3
