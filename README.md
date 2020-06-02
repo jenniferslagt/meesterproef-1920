@@ -36,3 +36,4 @@ Kortom: een leerzame week!
 ## Bronnen
 * [Git & GitHub Tutorial for Beginners #8 - Branches](https://www.youtube.com/watch?v=QV0kVNvkMxc&amp=&index=8)
 * [Start using Git on the command line](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html)
+* [Capturing and Saving User Audio or Video with JavaScript](https://www.youtube.com/watch?v=K6L38xk2rkk)
