@@ -20,8 +20,22 @@ Tenslotte ben ik vrijdag aan de slag gegaan met een recorder. Ik heb eerst resea
 Kortom: een leerzame week!
 
 ### Week 3
+Deze week begon iets moeizamer: we hadden allemaal veel errors van de ESLint. Hier hebben we het over gehad en Marjolein heeft de regels aangepast zodat we minder errors hebben. 
+
+We begonnen deze week op dinsdag en hebben eigenlijk t/m donderdag gecodeerd. Op technisch vlak zijn we opgeschoten: De Spotify API werkt en de conversational UI is ook af! 
+
+Ik ben daarnaast verder gegaan met de microfoon recorder en heb de audio gescheiden van de video! Ik had de tutorial nog een keer bekeken waardoor ik de code beter begreep. Hierdoor ging het aanpassen van de code iets makkelijk (alhoewel het nogsteeds best complex is). Toen ik deze code wilde toevoegen aan ons prototype, deed de start button het echter niet direct: de button stond binnen een form waardoor het automatisch als submit-button werd gezien. Daardoor refreshde de pagina en deed de recorder het niet. Als je het attribuut `type` met de waarde `"button"` toevoegd, wordt het niet als een submit button gezien! Toen werkte het wel. Ook heb ik deze button aangepast naar een geanimeerde microfoon button gemaakt die goed aangeeft wanneer er gerecord wordt.
+
+Ik had wel het idee dat er nog iets miste bij de voice recorder, dus ik heb nog een timer toegevoegd met JavaScript. Het viel mij op dat ik me hierbij wel een beetje kon focussen op Functional Programming: ik heb de functies opgesplitst en samengevoegd binnen één functie die wordt uitgevoerd als de gebruiker op de microfoon button klinkt.
+
+Op donderdagavond hebben we nog de code van de conversational UI's samengevoegd met GIT. Hierbij heeft Marjolein me geholpen. We hebben in principe mijn branch gemerged naar de master branch. Er waren geen conflicten omdat ik alleen nieuwe code heb geschreven en geen code heb aangepast.
+
+Op vrijdagochtend hebben we feedback van de opdrachtgever gekregen. Daarna hebben we allemaal op vraag van de opdrachtgever een UI design ontworpen en de beste ontwerpkeuzes eruit gehaald. Deze hebben we samengevoegd tot een clean digitaal prototype.
+
+Tenslotte heb ik de Product Biografie weer bijgewerkt!
 
 
+## Week 4
 
 
 ## Reflectie Glory Days
