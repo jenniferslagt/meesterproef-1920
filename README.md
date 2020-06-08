@@ -41,13 +41,16 @@ Tenslotte heb ik de Product Biografie weer bijgewerkt!
 ## Reflectie Glory Days
 
 
+
+## Learning goals per vak (criteria)
+
+
 ## Wishlist
 - [x] Met SASS werken 
 - [ ] Functional programming
 - [ ] Aan de slag met een database
 - [x] Samenwerken in GitHub
 
-## Learning goals per vak
 
 ## Bronnen
 * [Git & GitHub Tutorial for Beginners #8 - Branches](https://www.youtube.com/watch?v=QV0kVNvkMxc&amp=&index=8)
