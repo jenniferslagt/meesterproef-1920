@@ -1,7 +1,7 @@
 Voor onze opdracht Glory Days heb ik per week een samenvatting geschreven! Benieuwd naar de details? In de wiki heb ik mijn (op onderwerp) werk per week gedocumenteerd.
 
 <details>
-<summary>### Week 1 </summary>
+<summary><b>Week 1</b> </summary>
 <br>
 De eerste week stond voor ons vooral in het teken van ontwerpen en het begrijpen van de (scope van de) opdracht. We hebben de debriefing geschreven en het eerste ontwerp gemaakt. We zijn ieder begonnen met schetsen en hebben hieruit de beste ontwerpkeuzes combineerd tot een prototype. Het is leuk om te zien hoe iedereen vanuit een ander perspectief naar de app kijkt! Ook als we feedback krijgen van de opdrachtgever, is het erg interessant om hun mening te horen. 
 
