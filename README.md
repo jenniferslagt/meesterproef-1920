@@ -1,4 +1,8 @@
+![Schermafbeelding 2020-06-14 om 22 04 50](https://user-images.githubusercontent.com/45489420/84602952-2274f980-ae8b-11ea-8d25-4f0100efaadc.png)
+
 Voor onze opdracht Glory Days heb ik per week een samenvatting geschreven! Benieuwd naar de details? In de wiki heb ik mijn (op onderwerp) werk per week gedocumenteerd.
+
+## Glory Days
 
 <details>
 <summary> <b>Week 1</b> </summary>
