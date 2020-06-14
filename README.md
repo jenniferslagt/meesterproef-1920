@@ -73,6 +73,7 @@ This is how you dropdown.
 
 
 ## Wishlist
+Voordat ik begon aan de meesterproef, had ik een paar learningsgoals voor mezelf opgesteld:
 - [x] Met SASS werken 
 - [ ] Functional programming
 - [ ] Aan de slag met een database
