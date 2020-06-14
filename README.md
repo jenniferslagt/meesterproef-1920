@@ -1,6 +1,7 @@
 ![Schermafbeelding 2020-06-14 om 22 04 50](https://user-images.githubusercontent.com/45489420/84602952-2274f980-ae8b-11ea-8d25-4f0100efaadc.png)
 
-Voor onze opdracht Glory Days heb ik per week een samenvatting geschreven! Benieuwd naar een uitgebreide versie? Bekijk dan hier mijn product biografie.
+Voor onze opdracht Glory Days heb ik per week een samenvatting geschreven! Benieuwd naar een uitgebreide versie? Bekijk dan 
+[hier](https://docs.google.com/document/d/1e8KzVPMDIAajii31_TKOLhqhy8-tFEEQpqsSTnobEUg/edit?usp=sharing) mijn product biografie.
 
 ## Glory Days
 
