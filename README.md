@@ -9,7 +9,7 @@ Ook hebben we natuurlijk een planning gemaakt door een project aan te maken op G
 </details>
 
 <details>
-<summary>### Week 2</summary>
+<summary> <b>Week 2 </b></summary>
 <br>
 Vanaf deze week zijn we echt begonnen met het bouwen van de app. Voordat we begonnen met bouwen, heeft Marjolein ons uitgelegd hoe we het beste kunnen samenwerken binnen een repository op verschillende branches. Hierbij heeft ze ook uitgelegd hoe je te werk gaat op je terminal met Git! Erg leerzaam, maar ik heb er wel wat moeite mee aangezien het allemaal nieuwe dingen zijn. Daarom had ik nog even een tutorial gekeken waardoor ik het wat beter begreep.
 
@@ -25,7 +25,7 @@ Kortom: een leerzame week!
 </details>
 
 <details>
-<summary>### Week 3</summary>
+<summary> <b>Week 3</b> </summary>
 <br>
 Deze week begon iets moeizamer: we hadden allemaal veel errors van de ESLint. Hier hebben we het over gehad en Marjolein heeft de regels aangepast zodat we minder errors hebben. 
 
@@ -42,7 +42,7 @@ Op vrijdagochtend hebben we feedback van de opdrachtgever gekregen. Daarna hebbe
 Tenslotte heb ik de Product Biografie weer bijgewerkt!</details>
 
 <details>
-<summary>## Week 4</summary>
+<summary><b> Week 4</b> </summary>
 <br>
 In het begin van de week zijn we vooral bezig geweest met het verwerken van de feedback van afgelopen vrijdag. Zo heb ik samen met Marissa en Marjolein het complete design van onze app aangepast. Ook hebben we een beetje "gespeeld" met de typografieën en kleuren. 
 
@@ -58,7 +58,7 @@ Op vrijdagochtend hebben we ons prototype gepresenteerd, het zag er al als een g
 </details>
 
 <details>
-<summary>## Week 5 </summary>
+  <summary><b> Week 5</b> </summary>
 <br>
 This is how you dropdown.
 </details>
