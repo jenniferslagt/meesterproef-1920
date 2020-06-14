@@ -1,12 +1,16 @@
-## Learning goals per week
+Voor onze opdracht Glory Days heb ik per week een samenvatting geschreven! Benieuwd naar de details? In de wiki heb ik mijn (op onderwerp) werk per week gedocumenteerd.
 
-### Week 1 
+<details>
+<summary>### Week 1 </summary>
+<br>
 De eerste week stond voor ons vooral in het teken van ontwerpen en het begrijpen van de (scope van de) opdracht. We hebben de debriefing geschreven en het eerste ontwerp gemaakt. We zijn ieder begonnen met schetsen en hebben hieruit de beste ontwerpkeuzes combineerd tot een prototype. Het is leuk om te zien hoe iedereen vanuit een ander perspectief naar de app kijkt! Ook als we feedback krijgen van de opdrachtgever, is het erg interessant om hun mening te horen. 
 
 Ook hebben we natuurlijk een planning gemaakt door een project aan te maken op GitHub. Binnen dit project gebruiken we issues die we koppelen aan een lijst binnen het project! Ik wist zelf niet dat dit laatste kon.
+</details>
 
-
-### Week 2
+<details>
+<summary>### Week 2</summary>
+<br>
 Vanaf deze week zijn we echt begonnen met het bouwen van de app. Voordat we begonnen met bouwen, heeft Marjolein ons uitgelegd hoe we het beste kunnen samenwerken binnen een repository op verschillende branches. Hierbij heeft ze ook uitgelegd hoe je te werk gaat op je terminal met Git! Erg leerzaam, maar ik heb er wel wat moeite mee aangezien het allemaal nieuwe dingen zijn. Daarom had ik nog even een tutorial gekeken waardoor ik het wat beter begreep.
 
 Het is fijn om weer even aan de slag te gaan met alle stof die we geleerd hebben tijdens de minor. Ik merk dat er wat dingen waren weggezakt die nu weer naar boven komen. 
@@ -18,8 +22,11 @@ Ook hebben we regels gemaakt over onze manier van coderen.. Denk aan het gebruik
 Tenslotte ben ik vrijdag aan de slag gegaan met een recorder. Ik heb eerst research gedaan en kwam erachter dat er een API is om media te streamen. Vervolgens heb ik een tutorial gevolgd waarbij je de user kan opnemen. Hierbij wordt de video én de audio gestreamd, opgenomen en opgeslagen. 
 
 Kortom: een leerzame week!
+</details>
 
-### Week 3
+<details>
+<summary>### Week 3</summary>
+<br>
 Deze week begon iets moeizamer: we hadden allemaal veel errors van de ESLint. Hier hebben we het over gehad en Marjolein heeft de regels aangepast zodat we minder errors hebben. 
 
 We begonnen deze week op dinsdag en hebben eigenlijk t/m donderdag gecodeerd. Op technisch vlak zijn we opgeschoten: De Spotify API werkt en de conversational UI is ook af! 
@@ -32,10 +39,30 @@ Op donderdagavond hebben we nog de code van de conversational UI's samengevoegd 
 
 Op vrijdagochtend hebben we feedback van de opdrachtgever gekregen. Daarna hebben we allemaal op vraag van de opdrachtgever een UI design ontworpen en de beste ontwerpkeuzes eruit gehaald. Deze hebben we samengevoegd tot een clean digitaal prototype.
 
-Tenslotte heb ik de Product Biografie weer bijgewerkt!
+Tenslotte heb ik de Product Biografie weer bijgewerkt!</details>
 
+<details>
+<summary>## Week 4</summary>
+<br>
+In het begin van de week zijn we vooral bezig geweest met het verwerken van de feedback van afgelopen vrijdag. Zo heb ik samen met Marissa en Marjolein het complete design van onze app aangepast. Ook hebben we een beetje "gespeeld" met de typografieën en kleuren. 
 
-## Week 4
+Daarna zijn we vooral gaan coderen. Hierbij hebben we de schermen verdeeld. Ik heb hiervoor het overzicht herinneringen scherm gemaakt en het detailscherm waarbij een share button zit. Ook ben ik aan de slag gegaan met een slider, iets wat ik eigenlijk nog niet echt had gemaakt. Het was simpeler dan ik dacht, de slider kon gewoon gemaakt worden met HTML en CSS. Hierbij is het vooral belangrijk welke attributen je gebruikt en welke value je geeft.
+
+Ook heb ik een design review gehad met Koop wat betreft de slider. Hij had nog wat tips over de interactie.
+
+Tijdens het bouwen van de app vallen je natuurlijk ook weer details op, die ook moeten worden aangepast. Zo had ik eerst een gradient color met een opacity over een foto gedaan. Echter had dit nog een mooier effect als de foto zwart wit was. Het kwam erop neer dat je een filter over een gefilterde afbeelding doet. Maar hoe je doe je dit precies? Ik had een div element aangemaakt die als overlay werkte. Het is soms tijdens het coderen even puzzelen, maar er is bijna altijd wel een oplossing.
+
+Tenslotte hebben we donderdagavond alles samengevoegd, zodat we vrijdagochtend een mooie prestatie konden laten zien aan onze opdrachtgever. Dit ging ons best goed af. Helaas wist ik nog niet alle GIT commands uit mijn hoofd, dus ik heb ondertussen wat aantekeningen gemaakt en in mijn notities gezet. 
+
+Op vrijdagochtend hebben we ons prototype gepresenteerd, het zag er al als een geheel uit. Ik heb aantekeningen gemaakt tijdens onze feedbacksessie. Het begint al een geheel te worden en de opdrachtgever is erg positief over ons! 
+</details>
+
+<details>
+<summary>## Week 5 </summary>
+<br>
+This is how you dropdown.
+</details>
+
 
 
 ## Reflectie Glory Days
