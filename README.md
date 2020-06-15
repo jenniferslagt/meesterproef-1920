@@ -59,6 +59,8 @@ Tijdens het bouwen van de app vallen je natuurlijk ook weer details op, die ook 
 
 Tenslotte hebben we donderdagavond alles samengevoegd, zodat we vrijdagochtend een mooie prestatie konden laten zien aan onze opdrachtgever. Dit ging ons best goed af. Helaas wist ik nog niet alle GIT commands uit mijn hoofd, dus ik heb ondertussen wat aantekeningen gemaakt en in mijn notities gezet. 
 
+Ook heb ik de tone of voice aangepast voor in onze app. Denk aan "je" i.p.v "u", of "speciaal voor Alex" i.p.v "suggesties".
+
 Op vrijdagochtend hebben we ons prototype gepresenteerd, het zag er al als een geheel uit. Ik heb aantekeningen gemaakt tijdens onze feedbacksessie. Het begint al een geheel te worden en de opdrachtgever is erg positief over ons! 
 </details>
 
