@@ -67,10 +67,14 @@ Op vrijdagochtend hebben we ons prototype gepresenteerd, het zag er al als een g
 <details>
   <summary><b> Week 5</b> </summary>
 <br>
-This is how you dropdown.
+Deze week staat voornamelijk in het teken om de puntjes op de i te doen. Er waren nog veel details die gefixt moesten worden. We hadden op maandag alle taken verdeeld met de planning. Zo waren sommige buttons niet helemaal goed gepositioneerd, of was er een foto toegevoegd met CSS en kon dat beter binnen Express. Ook ben ik aan de gang gegaan met de microfoon, deze wilde ik pas activeren op het moment dat de gebruiker op de knop klikt i.p.v op het moment dat de gebruiker op de pagina komt. 
+  
+Echter was dit lastiger dan ik dacht, en heb ik hierover gespard met het team en met Janno. Het kostte veel tijd en had geen hoge prioriteit op dat moment. Daarom hebben we voor de presentatie de microfoon even uitgeschakeld. De microfoon blijft er natuurlijk wel gewoon in het prototype!
+  
+Op donderdag heb ik samen met Simone de design rationale gemaakt. Daarnaast hebben we gezamenlijk gekeken naar de DR en de powerpoint presentatie ter voorbereiding van de eindpresentaties.
+
+Wij hadden beide presentaties gepland op vrijdag. Eerst voor de opdrachtgever, dan voor de klas. 
 </details>
-
-
 
 ## Reflectie Glory Days
 Ik vond het super leerzaam om te werken aan Glory Days in samenwerking met vier andere studenten. Zo had ik nog nooit een project gehad waarin je samen werkt aan de code en heb ik geleerd hoe ik samen moet werken via GIT. Daarnaast was het een interessante opdracht waarbij we voornamelijk de hoofdfunctionaliteit hebben kunnen realiseren. We hadden in de eerste week veel ideeën, maar helaas hadden we geen tijd meer om dit daadwerkelijk uit te voeren. 
