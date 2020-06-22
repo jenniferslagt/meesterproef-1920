@@ -82,10 +82,17 @@ Kortom: ik heb veel geleerd en kijk met trots terug op dit project!
 
 ## Learning goals per vak (criteria)
 Tijdens dit project hebben we veel stof van de afgelopen maanden kunnen toepassen. Dit is wat ik voornamelijk heb geleerd / toegepast:
-* CSS to the rescue: css is meer dan alleen stijling en kan ook interactief worden toegepast. Zo heb ik bijvoorbeeld een interactieve slider gemaakt, waarbij de label van kleur verandert op basis van de input. Ook heb ik SASS geleerd, en kwam ik erachter dat je met `mix-blend-mode` een element kan "blenden" met de parent element.
+* Web app from scratch: Ik had bij het vak hele lange functies gemaakt die eigenlijk beter opgesplitst moesten worden in kleinere functies. Dit heb ik toegepast bij het maken van de slider en bij het maken van de timer (die bij de microfoon hoort). Kortom: functional programming is afgevinkt van mijn wishlist.
 
-* Browser Technologies: 
+* CSS to the rescue: css is meer dan alleen stijling en kan ook interactief worden toegepast. Zo heb ik bijvoorbeeld een interactieve slider gemaakt, waarbij de label van kleur verandert op basis van de input. Ook heb ik SASS geleerd, en kwam ik erachter dat je met `mix-blend-mode` een element kan "blenden" met de parent element. Ook ben ik aan de slag gegaan met de eenheid `rem`: dit is namelijk gelijk aan de grootte van het lettertype die in de root staat van de HTML. Tenslotte kwam ik erachter dat je `calc()` makkelijk kan gebruiken om bijvoorbeeld de breedte van een element te bepalen met een simpel rekensommetje.
 
+* Browser Technologies: progressive enhancement is erg belangrijk. De app moet voor iedereen werken. Wij hebben vanuit de core functionaliteit gewerkt. Zo heb ik fallback gemaakt voor de microfoon: `navigator.mediaDevices` wordt namelijk niet door elke browser ondersteund. Een kleine enhancement hierbij is dat als de gebruiker klikt op de microfoon, wordt er een herhalende animatie "afgespeeld" die aangeeft dat er opgenomen wordt. Ook heb ik een fallback gemaakt voor `navigator.share()`. Deze wordt heel slecht ondersteund.
+
+* Progressive web apps: natuurlijk hebben we een progressive web app gemaakt met een service worker. Ook hebben we de code geminified zodat het criticial rendering path korter wordt. Het enige verschil hierbij is dat we tijdens de meesterproef een andere minifier hadden gebruikt dan die ik bij het vak heb toegepast.
+
+* Web design: web design is voor ons in zekere zin heel erg belangrijk geweest. Wij hebben namelijk een app ontwikkelt voor Alzheimer patiënten. Maar dit zijn natuurlijk niet de gebruikers. Wij hebben daarom in de eerste week ook veel informatie ontvangen van de opdrachtgever (study situation). De app moest simpel, vriendelijk en duidelijk zijn voor de gebruikers. Daarnaast hebben wij niet alleen een app gemaakt <u>voor</u> de opdrachtgever maar <u>met</u> de opdrachtgever. Wij ontwerpen samen, en hebben samen een mooi resultaat neergezet.
+
+* Real time web: helaas heb ik niet zoveel geleerd wat betreft het vak real-time web.
 
 
 ## Wishlist
@@ -94,6 +101,8 @@ Voordat ik begon aan de meesterproef, had ik een paar learningsgoals voor mezelf
 - [x] Functional programming
 - [ ] Aan de slag met een database
 - [x] Samenwerken in GitHub
+
+Helaas heb ik niet genoeg tijd gehad om mij verder te verdiepen in databases. 
 
 
 ## Bronnen
