@@ -94,6 +94,7 @@ Tijdens dit project hebben we veel stof van de afgelopen maanden kunnen toepasse
 
 * Real time web: helaas heb ik niet zoveel geleerd wat betreft het vak real-time web.
 
+Ik heb ook geleerd hoe je met branches aan de slag kan binnen GitHub met GIT. Echter heb ik dit niet toegewezen aan een vak, aangezien we hier ons niet zo mee bezig hebben gehouden gedurende de minor. Om te samen te werken is dit zeker wel belangrijk.
 
 ## Wishlist
 Voordat ik begon aan de meesterproef, had ik een paar learningsgoals voor mezelf opgesteld:
