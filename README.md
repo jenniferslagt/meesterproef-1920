@@ -73,16 +73,25 @@ This is how you dropdown.
 
 
 ## Reflectie Glory Days
+Ik vond het super leerzaam om te werken aan Glory Days in samenwerking met vier andere studenten. Zo had ik nog nooit een project gehad waarin je samen werkt aan de code en heb ik geleerd hoe ik samen moet werken via GIT. Daarnaast was het een interessante opdracht waarbij we voornamelijk de hoofdfunctionaliteit hebben kunnen realiseren. We hadden in de eerste week veel ideeën, maar helaas hadden we geen tijd meer om dit daadwerkelijk uit te voeren. 
 
+Ook zijn we aan de gang gegaan met het ontwerp, waarbij we voornamelijk op een conversational UI focussen. Dit was af en toe ook een uitdaging om sommige elementen op de juiste plek te krijgen. Daarnaast had ik van tevoren een SASS Crash Course gevolgd om dit vervolgens toe te passen tijdens de meesterproef. 
+
+Kortom: ik heb veel geleerd en kijk met trots terug op dit project!
 
 
 ## Learning goals per vak (criteria)
+Tijdens dit project hebben we veel stof van de afgelopen maanden kunnen toepassen. Dit is wat ik voornamelijk heb geleerd / toegepast:
+* CSS to the rescue: css is meer dan alleen stijling en kan ook interactief worden toegepast. Zo heb ik bijvoorbeeld een interactieve slider gemaakt, waarbij de label van kleur verandert op basis van de input. Ook heb ik SASS geleerd, en kwam ik erachter dat je met `mix-blend-mode` een element kan "blenden" met de parent element.
+
+* Browser Technologies: 
+
 
 
 ## Wishlist
 Voordat ik begon aan de meesterproef, had ik een paar learningsgoals voor mezelf opgesteld:
 - [x] Met SASS werken 
-- [ ] Functional programming
+- [x] Functional programming
 - [ ] Aan de slag met een database
 - [x] Samenwerken in GitHub
 
